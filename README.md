@@ -7,7 +7,8 @@
 * Bootstrap
 * Google Fonts
 * npm Font Awesome
-* npm react-type-animation
+* npm react-type-animation (future development)
+* npm react-popupbox
 
 ## VSCode
 
@@ -25,6 +26,10 @@
  * Content for the Navbar would not do as it was done in the training.
 
  * npm Typed-Text errors out on install. Used react-type-animation.
+
+ * Unable to center portfolio images.
+
+ * Unable to get the porfolio images to popup.
 
  ## Resources
 
