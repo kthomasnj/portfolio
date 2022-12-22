@@ -29,3 +29,7 @@
  ## Resources
 
  * Pixels to REM (https://www.ninjaunits.com/converters/pixels/pixels-rem/)
+
+ ## Future Development
+
+* Particles is depreciated so I will attempt to add tsparticles.
