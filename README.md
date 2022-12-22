@@ -6,9 +6,10 @@
 * React
 * Bootstrap
 * Google Fonts
-* Font Awesome
+* npm Font Awesome
+* npm react-type-animation
 
-## VSCode Plugins
+## VSCode
 
  * ES7 React/Redux/GraphQL/React-Native snippet
 
@@ -22,6 +23,8 @@
  ## Challenges
 
  * Content for the Navbar would not do as it was done in the training.
+
+ * npm Typed-Text errors out on install. Used react-type-animation.
 
  ## Resources
 
