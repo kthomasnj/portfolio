@@ -7,8 +7,10 @@
 * Bootstrap
 * Google Fonts
 * npm Font Awesome
-* npm react-type-animation (future development)
-* npm react-popupbox
+* npm react-type-animation (future Development)
+* npm react-popupbox (Future Development)
+* EmailJS
+* npm react-hook-form
 
 ## VSCode
 
@@ -17,9 +19,12 @@
  * Hold CTRL+D to select multiple entries of the same item to do bulk changes.
 
  * RAFCE creates the functional template
- *CTRL+D Selects all the selected items in the code.
+ 
+ * CTRL+D Selects all the selected items in the code.
 
  * Enable Emmet support to enter shortcuts for HTML code (https://eshwaren.medium.com/enable-emmet-support-for-jsx-in-visual-studio-code-react-f1f5dfe8809c)
+
+ * CTRL+/ makes selected text a comment.
 
  ## Challenges
 
@@ -30,6 +35,8 @@
  * Unable to center portfolio images.
 
  * Unable to get the porfolio images to popup.
+
+ * Form error message didn't work with that was used in the training.
 
  ## Resources
 
