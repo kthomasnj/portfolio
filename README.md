@@ -13,6 +13,7 @@
 * npm react-hook-form
 * npm react-share
 * npm react-scroll
+* GitHub Pages
 
 ## VSCode
 
@@ -47,6 +48,8 @@
  ## Resources
 
  * Pixels to REM (https://www.ninjaunits.com/converters/pixels/pixels-rem/)
+
+ * udemy cource Build Portfolio App with ReactJS & Bootstrap (https://www.udemy.com/course/build-portfolio-with-reactjs-and-bootstrap/learn)
 
  ## Future Development
 
