@@ -7,8 +7,6 @@
 * Bootstrap
 * Google Fonts
 * npm Font Awesome
-* npm react-type-animation (future Development)
-* npm react-popupbox (Future Development)
 * EmailJS
 * npm react-hook-form
 * npm react-share
@@ -54,3 +52,11 @@
  ## Future Development
 
 * Particles is depreciated so I will attempt to add tsparticles.
+
+* npm react-type-animation (future Development)
+
+* npm react-popupbox (Future Development)
+
+## Deployed Portfolio
+
+* https://ktnjdev.github.io/portfolio/
