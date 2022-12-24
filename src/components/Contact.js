@@ -1,10 +1,10 @@
-import React, {useState} from 'react';
+import React from 'react';
 import emailjs from 'emailjs-com';
 import { useForm } from 'react-hook-form';
 
 const Contact = () => {
-    const [successMessage, setSuccessMessage] = useState("");
-    const { register, handleSubmit, errors } = useForm();
+    // const [successMessage, setSuccessMessage] = useState("");
+    const { handleSubmit } = useForm();
 
     const serviceID = "service_ID";
     const templateID = "template_ID";
@@ -29,7 +29,7 @@ const Contact = () => {
     const sendEmail = (serviceID, templateID, variables, userID) => {
         emailjs.send(serviceID, templateID, variables, userID)
             .then(() => {
-                setSuccessMessage("Form sent successfully! I'll contact you as soon as possible.");
+                // setSuccessMessage("Form sent successfully! I'll contact you as soon as possible.");
             }).catch(err => console.error(`Something went wrong.`));
     };
 

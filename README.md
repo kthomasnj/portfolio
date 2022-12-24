@@ -42,6 +42,8 @@
 
  * Validation didn't work on this project.
 
+ * Errors with a tags on multiple pages.
+
  ## Resources
 
  * Pixels to REM (https://www.ninjaunits.com/converters/pixels/pixels-rem/)

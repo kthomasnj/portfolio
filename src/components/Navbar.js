@@ -15,19 +15,19 @@ const Navbar = () => {
                 <div className="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                     <ul className="navbar-nav">
                         <li className="nav-item active">
-                            <Link smooth={true} to="home" className="nav-link" href="/">Home <span className="sr-only"></span></Link>
+                            <Link smooth={true} to="home" className="nav-link">Home <span className="sr-only"></span></Link>
                         </li>
                         <li className="nav-item">
-                            <Link smooth={true} to="about" offset={-110} className="nav-link" href="/">About</Link>
+                            <Link smooth={true} to="about" offset={-110} className="nav-link">About</Link>
                         </li>
                         <li className="nav-item">
-                            <Link smooth={true} to="portfolio" offset={-110} className="nav-link" href="/">Portfolio</Link>
+                            <Link smooth={true} to="portfolio" offset={-110} className="nav-link">Portfolio</Link>
                         </li>
                         <li className="nav-item">
-                            <Link smooth={true} to="contact" offset={0} className="nav-link" href="/">Contact</Link>
+                            <Link smooth={true} to="contact" offset={0} className="nav-link" >Contact</Link>
                         </li>
                         <li className="nav-item">
-                            <Link smooth={true} to="home" className="nav-link" href="/">Resume</Link>
+                            <Link smooth={true} to="home" className="nav-link">Resume</Link>
                         </li>
                     </ul>
                 </div>
