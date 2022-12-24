@@ -3,7 +3,7 @@ import { TypeAnimation } from 'react-type-animation';
 
 const Header = () => {
     return (
-        <div className="header-wrapper">
+        <div id="home" className="header-wrapper">
             <div className="main-info">
                 <h1>web development and website promotions</h1>
                 <TypeAnimation

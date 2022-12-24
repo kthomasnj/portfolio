@@ -34,9 +34,9 @@ const Contact = () => {
     };
 
     return (
-        <div className="contact">
+        <div id="contact" className="contact">
             <div className="text-center">
-                <h1>contact me</h1>
+                <h1>contact</h1>
                 <p>Please fill out the form and describe your porject needs and I will contact you as soon as I can.</p>
             </div>
             <div className="container">
@@ -104,7 +104,7 @@ const Contact = () => {
                                 ></textarea>
                                 <div className="line"></div>
                             </div>
-                            <button className="btn-main-offer contact-btn" type="submit">contact me</button>
+                            <button className="btn-main-offer contact-btn" type="submit">submit</button>
                         </div>
                     </div>
                 </form>

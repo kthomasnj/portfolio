@@ -72,7 +72,7 @@ nav ul li {
   text-transform: uppercase;
 }
 
-.navbar-nav>li>a {
+.navbar-nav > li > a {
   margin-right: 0.75rem;
   margin-left: 0.75rem;
   color: var(--primary-white) !important;
@@ -91,8 +91,8 @@ nav ul li {
   }
 }
 
-.navbar-nav>li>a.active,
-.navbar-nav>li>a.active:focus {
+.navbar-nav > li > a.active,
+.navbar-nav>li>a:focus {
   border-top: 0.1875rem solid var(--primary-orange);
 }
 
@@ -110,7 +110,7 @@ nav ul li {
   background: url(./images/background.jpg);
   background-size: cover;
   background-position: center;
-  height: 90vh;
+  height: 100vh;
 }
 
 .main-info {
@@ -379,4 +379,26 @@ textarea.form-control {
   .contact p {
     padding: 0 0.4rem;
   }
+}
+
+/************************************* FOOTER COMPONENTS *********************************************/
+.footer {
+  background: var(--primary-black);
+  color: var(--primary-dark-grey);
+  padding: 3rem;
+}
+
+.footer a {
+  text-decoration: none;
+  color: var(--primary-dark-grey);
+}
+
+.footer a:hover {
+  text-decoration: none;
+  color: var(--primary-orange);
+  cursor: pointer;
+}
+
+.footer p {
+  margin-bottom: 0;
 }

@@ -11,6 +11,8 @@
 * npm react-popupbox (Future Development)
 * EmailJS
 * npm react-hook-form
+* npm react-share
+* npm react-scroll
 
 ## VSCode
 
@@ -37,6 +39,8 @@
  * Unable to get the porfolio images to popup.
 
  * Form error message didn't work with that was used in the training.
+
+ * Validation didn't work on this project.
 
  ## Resources
 
