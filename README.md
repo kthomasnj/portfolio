@@ -43,7 +43,7 @@
 
  * Errors with a tags on multiple pages.
 
- * After entering custom website the page is blank.
+ * After entering custom domain the website is blank.
 
  ## Resources
 
