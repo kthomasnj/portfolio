@@ -59,4 +59,4 @@
 
 ## Deployed Portfolio
 
-* https://ktnjdev.github.io/portfolio/
+* https://kt-webdev.com
