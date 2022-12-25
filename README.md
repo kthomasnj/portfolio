@@ -43,6 +43,8 @@
 
  * Errors with a tags on multiple pages.
 
+ * After entering custom website the page is blank.
+
  ## Resources
 
  * Pixels to REM (https://www.ninjaunits.com/converters/pixels/pixels-rem/)
