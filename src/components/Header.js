@@ -6,13 +6,13 @@ const Header = () => {
     return (
         <div id="home" className="header-wrapper">
             <div className="main-info">
-                <h1>hi i'm keith thomas and welcome!</h1>
+                <h1>hi i'm keith thomas!</h1>
                 <TypeAnimation
                     className="typed-text"
                     sequence={[
                         'I am a Full-Stack Web Developer',
                         2000, 
-                        'Front and Back Web Devoper', 
+                        'Front and Back Web Development', 
                         2000, 
                         'HTML, CSS, REACT and JavaScript', 
                         2000,
