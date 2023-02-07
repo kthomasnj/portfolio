@@ -6,17 +6,17 @@ const Header = () => {
     return (
         <div id="home" className="header-wrapper">
             <div className="main-info">
-                <h1>web development and website promotions</h1>
+                <h1>hi i'm keith thomas and welcome!</h1>
                 <TypeAnimation
                     className="typed-text"
                     sequence={[
-                        'Web Design',
+                        'I am a Full-Stack Web Developer',
                         2000, 
-                        'Web Development', 
+                        'I have experience with Front and Back Web Devopment', 
                         2000, 
-                        'Facebook Ads', 
+                        'HTML, CSS, REACT and JavaScript', 
                         2000,
-                        "Google Ads",
+                        "SQL and MongoDB",
                         2000,
                     ]}
                     wrapper="div"
