@@ -1,7 +1,9 @@
 import React from 'react';
 import {
     LinkedinShareButton,
-    LinkedinIcon
+    LinkedinIcon,
+    EmailShareButton,
+    EmailIcon
 } from 'react-share';
 import {Link} from 'react-scroll';
 
@@ -15,7 +17,7 @@ const Footer = () => {
                             <p>Stewartsville, NJ USA</p>
                         </div>
                         <div className="d-flex">
-                            <p>info@keithsthomas.com</p>
+                            <a href="mailto:info@keithsthomas.com">info@keithsthomas.com</a>
                         </div>
                     </div>
                     <div className="col-lg-3 col-md-2 col-sm-6">
@@ -37,12 +39,17 @@ const Footer = () => {
                     <div className="col-lg-5 col-md-5 col-sm-6 allign-items-center">
                         <div className="d-flex justify-content-center">
                             <LinkedinShareButton
-                                url={"https://www.youtube.com/8020coding"}
+                                url={"https://linkedin.com/in/keithsthomas"}
                                 quote={"FullStack Developer"}
                                 hashtag="#javascript"
                             >
                                 <LinkedinIcon className="mx-3" size={36} />
                             </LinkedinShareButton>
+                            <EmailShareButton
+                                mailto="info@keithsthomas.com"
+                            >
+                                <EmailIcon className="mx-3" size={36} />
+                            </EmailShareButton>
                         </div>
                         <p className="pt-3 text-center">
                             Copyright &copy;

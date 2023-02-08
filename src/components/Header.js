@@ -16,7 +16,7 @@ const Header = () => {
                         2000, 
                         'HTML, CSS, REACT and JavaScript', 
                         2000,
-                        "SQL and MongoDB",
+                        "SQL, MySQL, MERN and MongoDB",
                         2000,
                     ]}
                     wrapper="div"
