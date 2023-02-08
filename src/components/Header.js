@@ -18,6 +18,8 @@ const Header = () => {
                         2000,
                         "SQL, MySQL, MERN and MongoDB",
                         2000,
+                        "Contact me if you have questions",
+                        2000,
                     ]}
                     wrapper="div"
                     cursor={true}
