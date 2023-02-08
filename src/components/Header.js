@@ -12,7 +12,7 @@ const Header = () => {
                     sequence={[
                         'I am a Full-Stack Web Developer',
                         2000, 
-                        'Front and Back Web Development', 
+                        'Frontend and Backend Web Development', 
                         2000, 
                         'HTML, CSS, REACT and JavaScript', 
                         2000,
