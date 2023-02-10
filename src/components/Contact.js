@@ -37,7 +37,7 @@ const Contact = () => {
         <div id="contact" className="contact">
             <div className="text-center">
                 <h1>contact</h1>
-                <p>Please fill out the form and describe your porject needs and I will contact you as soon as I can.</p>
+                <p>Please fill out the form and describe your project needs and I will contact you as soon as I can.</p>
             </div>
             <div className="container">
                 <form onSubmit={handleSubmit(onSubmit)}>
