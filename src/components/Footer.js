@@ -46,7 +46,8 @@ const Footer = () => {
                                 <LinkedinIcon className="mx-3" size={36} />
                             </LinkedinShareButton>
                             <EmailShareButton
-                                mailto="info@keithsthomas.com"
+                                subject={"Keith S Thomas Portfolio"}
+                                body={"Visit https://kt-webdev.com to lean more about Keith Thomas."}
                             >
                                 <EmailIcon className="mx-3" size={36} />
                             </EmailShareButton>
