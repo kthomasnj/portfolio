@@ -13,7 +13,7 @@ const About = () => {
         <div className="col-lg-6 col-xm-12">
           <h1 className="about-heading">about</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem corporis officia eligendi quibusdam sint, porro voluptatibus pariatur, architecto recusandae, provident tempora repellendus dolor dolores. Voluptatum ab assumenda deleniti ipsa veniam ullam qui itaque labore magnam incidunt necessitatibus quas tempore architecto reiciendis excepturi cum illo consequuntur dolorum temporibus, sequi a soluta.
+            I am Keith Thomas a recent graduate of the Rutgers University full-stack development bootcamp. I am currently working as a System Administrator exploring opportunities in web development. I have a proven ability to learn quickly and I love to create websites that store and deliver information. I am a creative problem solver, team player, and dedicated to a life-long persute of learning.
           </p>
         </div>
       </div>
