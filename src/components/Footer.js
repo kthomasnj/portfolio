@@ -3,7 +3,9 @@ import {
     LinkedinShareButton,
     LinkedinIcon,
     EmailShareButton,
-    EmailIcon
+    EmailIcon,
+    TwitterShareButton,
+    TwitterIcon
 } from 'react-share';
 import {Link} from 'react-scroll';
 
@@ -39,15 +41,22 @@ const Footer = () => {
                     <div className="col-lg-5 col-md-5 col-sm-6 allign-items-center">
                         <div className="d-flex justify-content-center">
                             <LinkedinShareButton
-                                url={"https://linkedin.com/in/keithsthomas"}
+                                url={"https://kt-webdev.com"}
                                 quote={"FullStack Developer"}
                                 hashtag="#javascript"
                             >
                                 <LinkedinIcon className="mx-3" size={36} />
                             </LinkedinShareButton>
+                            <TwitterShareButton
+                                url={"https://kt-webdev.com"}
+                                quote={"FullStack Developer"}
+                                hashtag="#javascript"
+                            >
+                                <TwitterIcon className="mx-3" size={36} />
+                            </TwitterShareButton>
                             <EmailShareButton
-                                subject={"Keith S Thomas Portfolio"}
-                                body={"Visit https://kt-webdev.com to lean more about Keith Thomas."}
+                                subject={"Fullstack Web Developer"}
+                                quote={"Visit https://kt-webdev.com to lean more about Keith Thomas."}
                             >
                                 <EmailIcon className="mx-3" size={36} />
                             </EmailShareButton>
