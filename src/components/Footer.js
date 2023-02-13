@@ -55,8 +55,8 @@ const Footer = () => {
                                 <TwitterIcon className="mx-3" size={36} />
                             </TwitterShareButton>
                             <EmailShareButton
-                                subject={"Fullstack Web Developer"}
-                                quote={"Visit https://kt-webdev.com to lean more about Keith Thomas."}
+                                subject={"Keith Thomas - Full-Stack Web Developer"}
+                                body={"Visit https://kt-webdev.com to learn more about Keith Thomas."}
                             >
                                 <EmailIcon className="mx-3" size={36} />
                             </EmailShareButton>
